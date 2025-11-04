@@ -1,0 +1,24 @@
+{
+  "name": "asfert/problem-solving-websites-php",
+  "description": "Solving Problems in PHP",
+  "keywords": [
+    "algorithm",
+    "leetcode"
+  ],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Asfer Tamimi"
+    }
+  ],
+  "require": {
+    "php": "^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Leetcode\\": "src/Leetcode/"
+    }
+  },
+  "prefer-stable": true
+}
