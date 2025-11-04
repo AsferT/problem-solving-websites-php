@@ -1,0 +1,10 @@
+# 1469 Minimum Number of Steps to Make Two Strings Anagram
+
+## Description
+
+> **Input:** abc
+>
+> **Output:** abc
+>
+> **Explanation:** abc
+

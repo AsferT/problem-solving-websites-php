@@ -1,0 +1,10 @@
+# 1978 Minimum Adjacent Swaps to Reach the Kth Smallest Number
+
+## Description
+
+> **Input:** abc
+>
+> **Output:** abc
+>
+> **Explanation:** abc
+

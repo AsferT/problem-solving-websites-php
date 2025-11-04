@@ -1,0 +1,10 @@
+# 1054 Complement of Base 10 Integer
+
+## Description
+
+> **Input:** abc
+>
+> **Output:** abc
+>
+> **Explanation:** abc
+
