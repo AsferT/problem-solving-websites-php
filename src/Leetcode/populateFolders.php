@@ -1,5 +1,7 @@
 <?php
 
+namespace Leetcode;
+
 $folders = [
     '0001_1000' => ['start' => 1, 'end' => 1000],
     '1001_2000' => ['start' => 1001, 'end' => 2000],
