@@ -8,4 +8,13 @@ namespace Leetcode\Group0001_1000\Solution0009_palindrome_number;
  */
 class Solution
 {
+    /**
+     * @param Integer $x
+     * @return Boolean
+     */
+    function isPalindrome($x)
+    {
+        return ((string)$x === strrev((string)$x));
+    }
 }
+
