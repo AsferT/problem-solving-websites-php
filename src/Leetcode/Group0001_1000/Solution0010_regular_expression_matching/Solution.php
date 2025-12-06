@@ -8,4 +8,13 @@ namespace Leetcode\Group0001_1000\Solution0010_regular_expression_matching;
  */
 class Solution
 {
+    /**
+     * @param String $s
+     * @param String $p
+     * @return Boolean
+     */
+    function isMatch(string $s, string $p): bool
+    {
+        return preg_match("/^{$p}$/", $s);
+    }
 }
