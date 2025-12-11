@@ -8,4 +8,13 @@ namespace Leetcode\Group0001_1000\Solution0028_find_the_index_of_the_first_occur
  */
 class Solution
 {
+    /**
+     * @param String $haystack
+     * @param String $needle
+     * @return Integer
+     */
+    function strStr(string $haystack, string $needle): int
+    {
+        return !str_contains($haystack, $needle) ? -1 : strpos($haystack, $needle);
+    }
 }
