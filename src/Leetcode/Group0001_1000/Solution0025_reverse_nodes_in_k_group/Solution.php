@@ -33,7 +33,6 @@ class Solution
         $result = new ListNode(0, $head);
         $current = $result;
         $previous = $result;
-        $next = $result;
         while ($current->next !== null) {
             $current = $current->next;
             $count++;
